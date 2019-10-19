@@ -1,1 +1,1 @@
-# git-program-1
+This program was created to gain experience with git
